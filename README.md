@@ -181,7 +181,7 @@ Possible future enhancements include:
 Python Backend Developer
 
 - GitHub: `https://github.com/chaitanyamodi-dev`
-- LinkedIn: `https://www.linkedin.com/in/chaitanya-modi/`
+- LinkedIn: `https://www.linkedin.com/in/chaitanya-modi-dev/`
 
 ## 📄 License
 
